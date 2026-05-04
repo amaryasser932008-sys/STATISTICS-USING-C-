@@ -1,0 +1,14 @@
+D:\AMMAR\c#\DR_samir task\bin\Debug\net10.0\DR_samir task.exe
+D:\AMMAR\c#\DR_samir task\bin\Debug\net10.0\DR_samir task.deps.json
+D:\AMMAR\c#\DR_samir task\bin\Debug\net10.0\DR_samir task.runtimeconfig.json
+D:\AMMAR\c#\DR_samir task\bin\Debug\net10.0\DR_samir task.dll
+D:\AMMAR\c#\DR_samir task\bin\Debug\net10.0\DR_samir task.pdb
+D:\AMMAR\c#\DR_samir task\obj\Debug\net10.0\DR_samir task.GeneratedMSBuildEditorConfig.editorconfig
+D:\AMMAR\c#\DR_samir task\obj\Debug\net10.0\DR_samir task.AssemblyInfoInputs.cache
+D:\AMMAR\c#\DR_samir task\obj\Debug\net10.0\DR_samir task.AssemblyInfo.cs
+D:\AMMAR\c#\DR_samir task\obj\Debug\net10.0\DR_samir task.csproj.CoreCompileInputs.cache
+D:\AMMAR\c#\DR_samir task\obj\Debug\net10.0\DR_samir task.dll
+D:\AMMAR\c#\DR_samir task\obj\Debug\net10.0\refint\DR_samir task.dll
+D:\AMMAR\c#\DR_samir task\obj\Debug\net10.0\DR_samir task.pdb
+D:\AMMAR\c#\DR_samir task\obj\Debug\net10.0\DR_samir task.genruntimeconfig.cache
+D:\AMMAR\c#\DR_samir task\obj\Debug\net10.0\ref\DR_samir task.dll
